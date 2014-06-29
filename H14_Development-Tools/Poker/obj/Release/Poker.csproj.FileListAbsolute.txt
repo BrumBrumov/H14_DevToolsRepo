@@ -1,0 +1,5 @@
+E:\Work\Telerik\C06.5_QPC\Homeworks\H14_Development-Tools\Poker\bin\Release\Poker.exe
+E:\Work\Telerik\C06.5_QPC\Homeworks\H14_Development-Tools\Poker\bin\Release\Poker.pdb
+E:\Work\Telerik\C06.5_QPC\Homeworks\H14_Development-Tools\Poker\obj\Release\Poker.csprojResolveAssemblyReference.cache
+E:\Work\Telerik\C06.5_QPC\Homeworks\H14_Development-Tools\Poker\obj\Release\Poker.exe
+E:\Work\Telerik\C06.5_QPC\Homeworks\H14_Development-Tools\Poker\obj\Release\Poker.pdb

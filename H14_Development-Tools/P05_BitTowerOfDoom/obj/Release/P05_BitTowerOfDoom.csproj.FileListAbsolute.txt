@@ -1,0 +1,6 @@
+E:\Work\Telerik\C06.5_QPC\Homeworks\H14_Development-Tools\P05_BitTowerOfDoom\bin\Release\P05_BitTowerOfDoom.exe.config
+E:\Work\Telerik\C06.5_QPC\Homeworks\H14_Development-Tools\P05_BitTowerOfDoom\bin\Release\P05_BitTowerOfDoom.exe
+E:\Work\Telerik\C06.5_QPC\Homeworks\H14_Development-Tools\P05_BitTowerOfDoom\bin\Release\P05_BitTowerOfDoom.pdb
+E:\Work\Telerik\C06.5_QPC\Homeworks\H14_Development-Tools\P05_BitTowerOfDoom\obj\Release\P05_BitTowerOfDoom.csprojResolveAssemblyReference.cache
+E:\Work\Telerik\C06.5_QPC\Homeworks\H14_Development-Tools\P05_BitTowerOfDoom\obj\Release\P05_BitTowerOfDoom.exe
+E:\Work\Telerik\C06.5_QPC\Homeworks\H14_Development-Tools\P05_BitTowerOfDoom\obj\Release\P05_BitTowerOfDoom.pdb

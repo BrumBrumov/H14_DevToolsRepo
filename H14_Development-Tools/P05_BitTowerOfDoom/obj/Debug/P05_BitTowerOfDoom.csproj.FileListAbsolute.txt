@@ -1,0 +1,5 @@
+E:\Work\Telerik\Semster1\Exam\CPart1Exam\P05_BitTowerOfDoom\bin\Debug\P05_BitTowerOfDoom.exe.config
+E:\Work\Telerik\Semster1\Exam\CPart1Exam\P05_BitTowerOfDoom\bin\Debug\P05_BitTowerOfDoom.exe
+E:\Work\Telerik\Semster1\Exam\CPart1Exam\P05_BitTowerOfDoom\bin\Debug\P05_BitTowerOfDoom.pdb
+E:\Work\Telerik\Semster1\Exam\CPart1Exam\P05_BitTowerOfDoom\obj\Debug\P05_BitTowerOfDoom.exe
+E:\Work\Telerik\Semster1\Exam\CPart1Exam\P05_BitTowerOfDoom\obj\Debug\P05_BitTowerOfDoom.pdb
